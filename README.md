@@ -149,8 +149,6 @@ These foundations continue to support my academic and technical development in *
 
 🔌 TESTEUR DES COMPOSANTS ÉLECTRONIQUES
 **mars 2026 – avril 2026**
-mars 2026 – avr. 2026
-
 Conception et réalisation d’un dispositif intelligent permettant d’identifier et de mesurer automatiquement plusieurs types de composants électroniques.
 
 ⚙️ Fonctionnalités principales :
