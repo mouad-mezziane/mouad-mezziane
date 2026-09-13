@@ -144,13 +144,13 @@ Designed and developed an intelligent electronic testing device capable of autom
 ⚙️ **Key Features:**
 
 - Automatic component identification:
-  - Resistors
-  - Capacitors
-  - Diodes / LEDs
-  - Transistors (BJT & MOSFET)
-  - Faulty component detection
-  - Measurement of electrical parameters (R, C, Vf, hFE, Vth, etc.)
-  - Real-time results displayed on a 16×2 LCD
+- Resistors
+- Capacitors
+- Diodes / LEDs
+- Transistors (BJT & MOSFET)
+- Faulty component detection
+- Measurement of electrical parameters (R, C, Vf, hFE, Vth, etc.)
+- Real-time results displayed on a 16×2 LCD
 
 🪧 **Technologies & Tools:**
 
