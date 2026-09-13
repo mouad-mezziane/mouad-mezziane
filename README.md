@@ -43,6 +43,8 @@ systems and electronics to control, energy, and engineering technologies.
 
 ## 🎓 Education
 
+
+_
 ### 🏫 Faculté des Sciences et Techniques de Tanger
 
 **Bachelor's Degree in Electrical Engineering & Industrial Systems (GESI)**  
@@ -60,8 +62,8 @@ Selected academic projects include:
 - 🔌 **Arduino-Based Electronics Projects** — Development and testing of several electronic systems using **Arduino IDE**, including an electronic component tester.
 - 🏭 **Final-Year Project (PFE)** — Completed as part of a two-person team at **Aluminium du Maroc**, contributing to the migration of a **Siemens S7-300 PLC to a Siemens S7-1500 PLC** and the development of an **HMI** using **TIA Portal**. This project strengthened my practical skills in industrial automation, PLC programming, and Siemens control systems.
 
----
 
+_
 ### 🏫 Faculté des Sciences et Techniques de Tanger
 
 **DEUST in Electrical Engineering & Mechanical Engineering (GE-GM)**  
@@ -78,8 +80,8 @@ During my studies, I worked on practical engineering projects involving:
 
 This multidisciplinary background allowed me to develop a structured approach to **technical analysis, engineering problem-solving, and system understanding**.
 
----
 
+_
 ### 🏫 Lycée Qualifiant Allal El Fassi de Tanger
 
 **Baccalaureate in Physical Sciences**  
