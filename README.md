@@ -211,7 +211,7 @@ If you're interested in **Electrical Engineering, engineering technologies,
 projects, or technical learning**, feel free to connect with me.
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" alt="Template preview" /></a>
+  <a href="https://linkedin.com/in/mouad-mezziane"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" alt="Template preview" /></a>
 </p>
 
 ---
