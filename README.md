@@ -1,127 +1,138 @@
-
-        
-           Copy Markdown
-        
-        <!-- ========================================================
-  🚀 GitHub Profile README — The Modern Frontend Engineer
-  Copy this file into your [username]/[username] repository!
-  Replace all placeholder values with your own information.
+<!-- ========================================================
+  🎓 GitHub Profile README — The Academic & Bootcamp Graduate
+  Perfect for CS students and recent bootcamp completers.
+  Replace all placeholders with your own information!
   ======================================================== -->
 
-# Hi there, I'm Alex Chen! 👋🚀
+# 🎓 Hi, I'm Maya Johnson! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%7C+React+Specialist;Open+Source+Contributor;UI%2FUX+Enthusiast;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=CS+Graduate+%7C+Class+of+2024;Full-Stack+Developer+in+Training;Open+to+Entry-Level+SWE+Roles;Building+things+that+matter+%F0%9F%8C%B1;Always+learning%2C+always+growing!" alt="Typing SVG" loading="lazy" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://your-portfolio.dev">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" loading="lazy" /></a>
+  <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-F43F5E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" loading="lazy" /></a>
+  <a href="mailto:maya@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" loading="lazy" /></a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=F43F5E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" loading="lazy" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-- 🔭 Currently building **scalable UI architectures** with React 18 & Next.js 14
-- 🌱 Deep-diving into **Web Performance, Core Web Vitals, and Edge Computing**
-- 💡 Passionate about **Developer Experience (DX)**, design systems, and open source
-- 🎯 2024 Goal: Contribute to **50+ open source projects** and ship my SaaS product
-- ☕ Fuel: **Specialty coffee** and lo-fi beats
-- 📫 Reach me: **alex@yourportfolio.dev**
+Fresh CS graduate passionate about building accessible, user-centric web applications.
+I believe great software should be **inclusive by design** and **delightful to use**.
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+- 🎓 **B.Sc. Computer Science** — State University, 2024 (GPA: 3.8/4.0)
+- 📍 Based in **Austin, Texas**
+- 🔭 Currently building: A MERN stack social app for local community events
+- 🌱 Learning: **Next.js, PostgreSQL, System Design fundamentals**
+- 🎯 Goal: Land my first **Software Engineer role** by Q3 2024
+- 🤝 Open to: **Internships, entry-level SWE roles, and pair programming sessions**
+- ⚡ Fun fact: I switched from pre-med to CS after building my first Python script — no regrets!
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎓 Education Timeline
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 🏫 B.Sc. Computer Science · State University
+**September 2020 – May 2024** | GPA: 3.8/4.0
+
+- 📚 Relevant Coursework: Data Structures, Algorithms, Database Systems, OS, Networks, AI/ML, Software Engineering
+- 🏆 Awards: Dean's List (6 semesters), Best Capstone Project (2024 cohort)
+- 🧑‍🤝‍🧑 Clubs: Women in CS, Hackathon Club Organiser, ACM Student Chapter
+
+### 💻 Full-Stack Web Development Bootcamp · [Bootcamp Name]
+**January 2024 – April 2024** | Certificate of Completion
+
+- 🛠️ Built 8 full-stack projects over 12 weeks
+- 🌐 Stack: MERN (MongoDB, Express, React, Node.js)
+- 👥 Pair-programmed with 20+ developers from 12 countries
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Backend & Database
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### DevOps & Tools
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Projects I'm Proud Of
+
+### 🌐 CommunityConnect — Social Event Platform
+> *Full-Stack Capstone Project (2024)*
+
+A MERN stack web app that helps local communities discover and organise neighbourhood events.
+
+**Features:** User auth with JWT, event CRUD, real-time chat with Socket.io, interactive maps, mobile-responsive design.
+
+**Stack:** React · Node.js · Express · MongoDB · Socket.io · Mapbox API · Tailwind CSS
+
+[📱 Live Demo](https://communityconnect.vercel.app) | [📂 Source Code](https://github.com/your-username/communityconnect) | ⭐ 34 stars
+
+---
+
+### 🛒 ShopSmart — E-Commerce Platform
+> *Bootcamp Final Project (2024)*
+
+A fully functional e-commerce platform with payment integration.
+
+**Stack:** React · Node.js · PostgreSQL · Stripe API · AWS S3
+
+[📱 Live Demo](https://shopsmart.vercel.app) | [📂 Source Code](https://github.com/your-username/shopsmart)
+
+---
+
+### 🤖 StudyBuddy — AI-Powered Flashcard App
+> *Personal Project (2023)*
+
+A flashcard app using spaced repetition and OpenAI to generate contextual hints.
+
+**Stack:** Python · Flask · OpenAI API · SQLite · Vanilla JS
+
+[📂 Source Code](https://github.com/your-username/studybuddy)
+
+---
+
+## 📊 My GitHub Journey
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=06b6d4&text_color=8b949e" alt="GitHub contribution stats card" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=8b949e" alt="GitHub top languages card" />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=f59e0b&currStreakLabel=10b981" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F43F5E&icon_color=F43F5E&count_private=true" loading="lazy" alt="Template preview" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F43F5E" loading="lazy" alt="Template preview" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤝 Let's Connect!
+
+I'm actively looking for my first SWE role. If you're hiring, collaborating on open source, or just want to chat about tech and learning — reach out!
+
+> 💼 **Open to:** Entry-level SWE · Front-End Engineer · Full-Stack roles · Remote-friendly
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" alt="Template preview" /></a>
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Stars |
-|---------|-------------|-------|-------|
-| [⚡ UIForge](https://github.com/your-username/uiforge) | Open-source React component library with 50+ accessible components | React, TypeScript, Storybook | ⭐ 1.2k |
-| [🔗 LinkDrop](https://github.com/your-username/linkdrop) | Beautiful bookmark manager with AI-powered categorization | Next.js, OpenAI, Prisma | ⭐ 847 |
-| [🎨 ThemeStudio](https://github.com/your-username/themestudio) | Visual CSS variable editor for design systems | Vue, Vite, IndexedDB | ⭐ 534 |
-
----
-
-## ⏰ Wakatime Coding Activity (Last 30 Days)
-
-```text
-JavaScript   ████████████░░░░░░░░░░░░░   48.23 %
-TypeScript   ██████░░░░░░░░░░░░░░░░░░░   22.14 %
-CSS/SCSS     ████░░░░░░░░░░░░░░░░░░░░░   14.87 %
-JSON         ██░░░░░░░░░░░░░░░░░░░░░░░    9.41 %
-Markdown     █░░░░░░░░░░░░░░░░░░░░░░░░    5.35 %
-```
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/your-username">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee button" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/your-username">your-username</a> — Happy coding! 🚀</i>
-</p>
-      
+<p align="center"><i>🌱 From <a href="https://github.com/your-username">your-username</a> — Every expert was once a beginner. 💪</i></p>
