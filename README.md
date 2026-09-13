@@ -15,7 +15,6 @@
   <a href="https://www.linkedin.com/in/mouad-mezziane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" loading="lazy" /></a>
   <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-F43F5E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" loading="lazy" /></a>
   <a href="mezziane.mouad@etu.uae.ac.ma"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" loading="lazy" /></a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=F43F5E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" loading="lazy" />
  </p>
 
 ---
