@@ -7,7 +7,7 @@
 # 🎓 Hi, I'm Mouad Mezziane ! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=CS+Graduate+%7C+Class+of+2024;Full-Stack+Developer+in+Training;Open+to+Entry-Level+SWE+Roles;Building+things+that+matter+%F0%9F%8C%B1;Always+learning%2C+always+growing!" alt="Typing SVG" loading="lazy" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student" alt="Typing SVG" loading="lazy" />
 </p>
 
 
