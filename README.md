@@ -147,31 +147,47 @@ These foundations continue to support my academic and technical development in *
 
 ## 🚀 Projects & Learning
 
-I use GitHub to document my **academic projects, practical experiments,
-simulations, and technical learning journey**.
+🔌 TESTEUR DES COMPOSANTS ÉLECTRONIQUES
+    mars 2026 – avr. 2026
 
-### ⚙️ Electrical Engineering Projects
+Conception et réalisation d’un dispositif intelligent permettant d’identifier et de mesurer automatiquement plusieurs types de composants électroniques.
 
-Projects related to electrical systems, control, simulation, electronics,
-and engineering applications.
+⚙️ Fonctionnalités principales :
 
-> 📌 Projects will be added as I develop and document them.
+- Identification automatique des composants :
+- Résistances
+- Condensateurs
+- Diodes / LED
+- Transistors (BJT & MOSFET)
+- Détection des composants défectueux
+- Mesure des paramètres électriques (R, C, Vf, hFE, Vth…)
+- Affichage des résultats en temps réel sur écran LCD 16x2
 
----
+🪧 Technologies utilisées :
 
-### 🎛️ Control & PLC Projects
+- Microcontrôleur : Arduino Nano (ATmega328P)
+- Programmation : C/C++ (Arduino IDE)
+- Simulation : Proteus
+- Conception mécanique : CATIA V5
+- Fabrication : Impression 3D (GreenLab)
 
-Exploring PLC programming, HMI development, simulation, and industrial
-control concepts using engineering software.
+📊 Performances :
 
-> 📌 More projects and experiments coming soon.
+- Temps de test < 2 secondes
+- Précision : jusqu’à ±5%
+- Interface simple et ergonomique
 
----
+🎯 Objectif du projet :
+Automatiser les tests en laboratoire, réduire les erreurs humaines et accélérer le diagnostic des composants électroniques.
 
-### 📐 Engineering Design & Simulation
+💡 Résultat :
+Prototype fonctionnel, fiable et économique (< 500 MAD), avec possibilité d’industrialisation.
 
-Exploring CAD/CAM and engineering simulation tools to develop practical
-technical skills and better understand engineering systems.
+🚀 Améliorations futures :
+- Ajout Bluetooth
+- Interface écran tactile
+- Mesure d’inductance
+- Alimentation par batterie rechargeable. 
 
 ---
 
