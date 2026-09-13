@@ -44,7 +44,7 @@ systems and electronics to control, energy, and engineering technologies.
 
 
 _
-### 🏫 Faculté des Sciences et Techniques de Tanger
+### 🏫 Faculty of Sciences and Technology of Tangier
 
 **Bachelor's Degree in Electrical Engineering & Industrial Systems (GESI)**  
 **September 2025 – September 2026** | **Bac+3**
@@ -59,11 +59,11 @@ Selected academic projects include:
 - 🚦 **Traffic Light Control System** — Design and simulation of a traffic-light control system using **Proteus**.
 - ⚡ **Power Electronics Converters** — Study and simulation of **rectifiers, inverters, and AC voltage controllers** using **PSIM**.
 - 🔌 **Arduino-Based Electronics Projects** — Development and testing of several electronic systems using **Arduino IDE**, including an electronic component tester.
-- 🏭 **Final-Year Project (PFE)** — Completed as part of a two-person team at **Aluminium du Maroc**, contributing to the migration of a **Siemens S7-300 PLC to a Siemens S7-1500 PLC** and the development of an **HMI** using **TIA Portal**. This project strengthened my practical skills in industrial automation, PLC programming, and Siemens control systems.
+- 🏭 **Final-Year Project (FYP)** — Completed as part of a two-person team at **Aluminium du Maroc**, contributing to the migration of a **Siemens S7-300 PLC to a Siemens S7-1500 PLC** and the development of an **HMI** using **TIA Portal**. This project strengthened my practical skills in industrial automation, PLC programming, and Siemens control systems.
 
 
 _
-### 🏫 Faculté des Sciences et Techniques de Tanger
+### 🏫 Faculty of Sciences and Technology of Tangier
 
 **DEUST in Electrical Engineering & Mechanical Engineering (GE-GM)**  
 **September 2023 – September 2025** | **Bac+2**
@@ -81,7 +81,7 @@ This multidisciplinary background allowed me to develop a structured approach to
 
 
 _
-### 🏫 Lycée Qualifiant Allal El Fassi de Tanger
+### 🏫 Allal El Fassi Qualifying High School of Tangier
 
 **Baccalaureate in Physical Sciences**  
 **September 2019 – July 2022** | **Baccalaureate (Bac)**
