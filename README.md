@@ -135,48 +135,51 @@ These foundations continue to support my academic and technical development in *
 
 ## 🚀 Projects & Learning
 
-🔌 TESTEUR DES COMPOSANTS ÉLECTRONIQUES
+### 🔌 Electronic Component Tester
 
-**mars 2026 – avril 2026**
-  
-Conception et réalisation d’un dispositif intelligent permettant d’identifier et de mesurer automatiquement plusieurs types de composants électroniques.
+**March 2026 – April 2026**
 
-⚙️ Fonctionnalités principales :
+Designed and developed an intelligent electronic testing device capable of automatically identifying and measuring multiple types of electronic components.
 
-- Identification automatique des composants :
-- Résistances
-- Condensateurs
-- Diodes / LED
-- Transistors (BJT & MOSFET)
-- Détection des composants défectueux
-- Mesure des paramètres électriques (R, C, Vf, hFE, Vth…)
-- Affichage des résultats en temps réel sur écran LCD 16x2
+⚙️ **Key Features:**
 
-🪧 Technologies utilisées :
+- Automatic component identification:
+  - Resistors
+  - Capacitors
+  - Diodes / LEDs
+  - Transistors (BJT & MOSFET)
+  - Faulty component detection
+  - Measurement of electrical parameters (R, C, Vf, hFE, Vth, etc.)
+  - Real-time results displayed on a 16×2 LCD
 
-- Microcontrôleur : Arduino Nano (ATmega328P)
-- Programmation : C/C++ (Arduino IDE)
-- Simulation : Proteus
-- Conception mécanique : CATIA V5
-- Fabrication : Impression 3D (GreenLab)
+🪧 **Technologies & Tools:**
 
-📊 Performances :
+- **Microcontroller:** Arduino Nano (ATmega328P)
+- **Programming:** C/C++ using Arduino IDE
+- **Simulation:** Proteus
+- **Mechanical Design:** CATIA V5
+- **Manufacturing:** 3D Printing (GreenLab)
 
-- Temps de test < 2 secondes
-- Précision : jusqu’à ±5%
-- Interface simple et ergonomique
+📊 **Performance:**
 
-🎯 Objectif du projet :
-Automatiser les tests en laboratoire, réduire les erreurs humaines et accélérer le diagnostic des composants électroniques.
+- Test time: **< 2 seconds**
+- Measurement accuracy: **up to ±5%**
+- Simple and user-friendly interface
 
-💡 Résultat :
-Prototype fonctionnel, fiable et économique (< 500 MAD), avec possibilité d’industrialisation.
+🎯 **Project Objective:**
 
-🚀 Améliorations futures :
-- Ajout Bluetooth
-- Interface écran tactile
-- Mesure d’inductance
-- Alimentation par batterie rechargeable. 
+To automate laboratory component testing, reduce human error, and accelerate the diagnostic process for electronic components.
+
+💡 **Outcome:**
+
+Developed a functional, reliable, and cost-effective prototype with a total cost of **less than 500 MAD**, with potential for further development and industrialization.
+
+🚀 **Future Improvements:**
+
+- Bluetooth connectivity
+- Touchscreen interface
+- Inductance measurement
+- Rechargeable battery power supply
 
 ---
 
