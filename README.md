@@ -112,30 +112,29 @@ These foundations continue to support my academic and technical development in *
 - Energy Systems
 - Industrial Electrical Technologies
 
-### 💻 Engineering Software & Tools
+### 💻 Electrical Engineering Software
 
 ![Siemens TIA Portal](https://img.shields.io/badge/Siemens%20TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![EPLAN Electric](https://img.shields.io/badge/EPLAN%20Electric-005A9C?style=for-the-badge&logoColor=white)
+![EPLAN Pro Panel](https://img.shields.io/badge/EPLAN%20Pro%20Panel-005A9C?style=for-the-badge&logoColor=white)
+![PSIM](https://img.shields.io/badge/PSIM-E65C00?style=for-the-badge&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A32D2A?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+
+### 📊 Engineering Simulation & Energy
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![GRAFCET](https://img.shields.io/badge/GRAFCET-6A5ACD?style=for-the-badge&logoColor=white)
+![PVsyst](https://img.shields.io/badge/PVsyst-F39C12?style=for-the-badge&logoColor=white)
 
-### 🏭 Control & Industrial Technologies
+### 🏭 Industrial Simulation
 
-- PLC
-- HMI
-- Siemens TIA Portal
-- PLCSIM
-- Factory I/O
-- Control & Simulation
+![Factory I/O](https://img.shields.io/badge/Factory%20I%2FO-2E86C1?style=for-the-badge&logoColor=white)
+![Siemens Tecnomatix Process Simulate](https://img.shields.io/badge/Siemens%20Tecnomatix%20Process%20Simulate-009999?style=for-the-badge&logo=siemens&logoColor=white)
 
 ### 📐 CAD / CAM
 
-- CAD
-- CAM
-- Autodesk Fusion
-- FeatureCAM
-- Engineering Design
+![CATIA V5](https://img.shields.io/badge/CATIA%20V5-005386?style=for-the-badge&logoColor=white)
+![FeatureCAM](https://img.shields.io/badge/FeatureCAM-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### 💻 Programming & Technical Tools             ### Tools & Platforms
 
