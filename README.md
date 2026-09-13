@@ -100,16 +100,6 @@ These foundations continue to support my academic and technical development in *
 
 ## 🛠️ Skills & Technologies
 
-### ⚡ Electrical Engineering
-
-- Electrical Systems
-- Circuit Analysis
-- Electrical Machines
-- Electronics
-- Control Systems
-- Energy Systems
-- Industrial Electrical Technologies
-
 ### 💻 Electrical Engineering Software
 
 ![Siemens TIA Portal](https://img.shields.io/badge/Siemens%20TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
