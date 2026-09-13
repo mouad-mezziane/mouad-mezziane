@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mouad 👋
 
-<!--
-**mouad-mezziane/mouad-mezziane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering Student at Faculté des Sciences et Techniques de Tanger
 
-Here are some ideas to get you started:
+## ⚡ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about electrical systems, technology, and solving real-world technical problems through engineering and digital tools.
+
+## 🔧 Areas of Interest
+
+- Electrical Systems & Circuit Analysis
+- Electronics
+- Control & Automation
+- CAD / CAM & Computer-Aided Design
+- Industrial Technologies
+- Programming & Engineering Software
+
+## 📚 Currently Exploring
+
+- Electrical design and simulation
+- Control systems and PLC technologies
+- CAD/CAM tools
+- Programming and digital engineering workflows
+
+## 🚀 Projects & Learning
+
+I use GitHub to document my projects, experiments, and technical learning journey.
+
+## 🤝 Connect
+
+- LinkedIn: https://www.linkedin.com/in/mouad-mezziane
