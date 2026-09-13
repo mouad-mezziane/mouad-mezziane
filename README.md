@@ -44,6 +44,8 @@ systems and electronics to control, energy, and engineering technologies.
 ## 🎓 Education
 
 
+
+
 ### 🏫 Faculté des Sciences et Techniques de Tanger
 
 LICENCE : Génie Électrique & Système Industriel [ GESI ] 
@@ -62,6 +64,8 @@ J’ai également développé plusieurs projets sous Arduino IDE, notamment un t
 Dans le cadre de mon Projet de Fin d’Études (PFE), réalisé en binôme chez Aluminium du Maroc, j’ai contribué à la migration d’un automate Siemens S7-300 vers un Siemens S7-1500 et au développement d’une interface HMI sous TIA Portal, renforçant mes compétences en automatisme industriel et en programmation des automates Siemens.
 
 
+
+
 ### 🏫 Faculté des Sciences et Techniques de Tanger
 
 DEUST : Génie Électrique & Génie Mécanique [ GE-GM ]
@@ -73,6 +77,8 @@ Niveau : Deust degree  { BAC + 2 }
 Je suis Titulaire d’un Diplôme en Génie Électrique & Génie Mécanique, ce qui m’a Permis d’acquérir une Base de connaissances Solide dans ces deux Spécialités.
 
 Au cours de mon parcours académique, j’ai participé à plusieurs projets pratiques, tels que la conception de circuits électriques et l’étude des performances des systèmes mécaniques, ce qui m’a permis de développer mes compétences en analyse technique et en résolution innovante de problèmes.
+
+
 
 
 ### 🏫 Lycée Qualifiant Allal el Fassi de Tanger
