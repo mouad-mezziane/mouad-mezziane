@@ -40,23 +40,6 @@ systems and electronics to control, energy, and engineering technologies.
   
 ---
 
-## ⚡ Areas of Interest
-
-- ⚡ Electrical Engineering
-- 🔌 Electrical Systems
-- 🔋 Energy & Power Systems
-- 📐 Electrical Circuit Analysis
-- 🔧 Electronics
-- 🎛️ Control Systems
-- ⚙️ Electrical Machines
-- 🏭 Industrial Technologies
-- 💻 Engineering Software & Simulation
-- 📐 CAD / CAM
-- 🧪 Practical Engineering & Experimentation
-
----
-
-
 
 ## 🎓 Education
 
