@@ -45,7 +45,7 @@ systems and electronics to control, energy, and engineering technologies.
 
 
 
-
+'
 ### 🏫 Faculté des Sciences et Techniques de Tanger
 
 LICENCE : Génie Électrique & Système Industriel [ GESI ] 
@@ -65,7 +65,7 @@ Dans le cadre de mon Projet de Fin d’Études (PFE), réalisé en binôme chez 
 
 
 
-
+'
 ### 🏫 Faculté des Sciences et Techniques de Tanger
 
 DEUST : Génie Électrique & Génie Mécanique [ GE-GM ]
@@ -80,7 +80,7 @@ Au cours de mon parcours académique, j’ai participé à plusieurs projets pra
 
 
 
-
+'
 ### 🏫 Lycée Qualifiant Allal el Fassi de Tanger
 
 Bacalauréat : Les Sciences Physiques
