@@ -154,32 +154,32 @@ Designed and developed an intelligent electronic testing device capable of autom
 
 🪧 **Technologies & Tools:**
 
-- **Microcontroller:** Arduino Nano (ATmega328P)
-- **Programming:** C/C++ using Arduino IDE
-- **Simulation:** Proteus
-- **Mechanical Design:** CATIA V5
-- **Manufacturing:** 3D Printing (GreenLab)
+  - **Microcontroller:** Arduino Nano (ATmega328P)
+  - **Programming:** C/C++ using Arduino IDE
+  - **Simulation:** Proteus
+  - **Mechanical Design:** CATIA V5
+  - **Manufacturing:** 3D Printing (GreenLab)
 
 📊 **Performance:**
 
-- Test time: **< 2 seconds**
-- Measurement accuracy: **up to ±5%**
-- Simple and user-friendly interface
+  - Test time: **< 2 seconds**
+  - Measurement accuracy: **up to ±5%**
+  - Simple and user-friendly interface
 
 🎯 **Project Objective:**
 
-To automate laboratory component testing, reduce human error, and accelerate the diagnostic process for electronic components.
+  o automate laboratory component testing, reduce human error, and accelerate the diagnostic process for electronic components.
 
 💡 **Outcome:**
 
-Developed a functional, reliable, and cost-effective prototype with a total cost of **less than 500 MAD**, with potential for further development and industrialization.
+  Developed a functional, reliable, and cost-effective prototype with a total cost of **less than 500 MAD**, with potential for further development and industrialization.
 
 🚀 **Future Improvements:**
 
-- Bluetooth connectivity
-- Touchscreen interface
-- Inductance measurement
-- Rechargeable battery power supply
+  - Bluetooth connectivity
+  - Touchscreen interface
+  - Inductance measurement
+  - Rechargeable battery power supply
 
 ---
 
