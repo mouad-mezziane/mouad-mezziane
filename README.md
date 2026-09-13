@@ -17,7 +17,7 @@
   <a href="mezziane.mouad@etu.uae.ac.ma"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" loading="lazy" /></a>
  </p>
 
----
+--
 
 ## 👩‍💻 About Me
 
@@ -38,7 +38,7 @@ systems and electronics to control, energy, and engineering technologies.
 - 🧠 Continuously developing my technical and practical skills
 - 🚀 Using GitHub to document my projects, experiments, and learning journey
   
----
+-
 
 
 ## 🎓 Education
