@@ -168,7 +168,7 @@ Designed and developed an intelligent electronic testing device capable of autom
 
 🎯 **Project Objective:**
 
-  o automate laboratory component testing, reduce human error, and accelerate the diagnostic process for electronic components.
+  automate laboratory component testing, reduce human error, and accelerate the diagnostic process for electronic components.
 
 💡 **Outcome:**
 
