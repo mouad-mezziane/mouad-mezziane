@@ -215,4 +215,4 @@ projects, or technical learning**, feel free to connect with me.
 </p>
 
 ---
-<p align="center"><i>🌱 From <a href="https://github.com/your-username">your-username</a> — Every expert was once a beginner. 💪</i></p>
+<p align="center"><i>⚡ From Mouad Mezziane — Learning today, engineering tomorrow.</i></p>
