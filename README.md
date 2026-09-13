@@ -136,7 +136,7 @@ These foundations continue to support my academic and technical development in *
 ![CATIA V5](https://img.shields.io/badge/CATIA%20V5-005386?style=for-the-badge&logoColor=white)
 ![FeatureCAM](https://img.shields.io/badge/FeatureCAM-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
-### 💻 Programming & Technical Tools             ### Tools & Platforms
+### 💻 Programming & Technical Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
