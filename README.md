@@ -191,6 +191,15 @@ Designed and developed an intelligent electronic testing device capable of autom
 - 🇬🇧 **English** — Professional working proficiency
 - 🇩🇪 **German** — Basic proficiency
 
+
+### 🌍 Languages
+
+![Arabic](https://img.shields.io/badge/Arabic-Native%20Proficiency-008000?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Professional%20Working%20Proficiency-0055A4?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Professional%20Working%20Proficiency-1E90FF?style=for-the-badge)
+![German](https://img.shields.io/badge/German-Basic%20Proficiency-000000?style=for-the-badge)
+
+
 ---
 
 ## 🤝 Let's Connect!
