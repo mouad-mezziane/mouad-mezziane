@@ -4,7 +4,7 @@
   Replace all placeholders with your own information!
   ======================================================== -->
 
-# 🎓 Hi, I'm Maya Johnson! 👋
+# 🎓 Hi, I'm Mouad Mezziane ! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=CS+Graduate+%7C+Class+of+2024;Full-Stack+Developer+in+Training;Open+to+Entry-Level+SWE+Roles;Building+things+that+matter+%F0%9F%8C%B1;Always+learning%2C+always+growing!" alt="Typing SVG" loading="lazy" />
@@ -21,53 +21,131 @@
 
 ## 👩‍💻 About Me
 
-Fresh CS graduate passionate about building accessible, user-centric web applications.
-I believe great software should be **inclusive by design** and **delightful to use**.
+Electrical Engineering student passionate about understanding how electrical,
+electronic, and energy systems work and how they can be designed, simulated,
+and improved.
 
-- 🎓 **B.Sc. Computer Science** — State University, 2024 (GPA: 3.8/4.0)
-- 📍 Based in **Austin, Texas**
-- 🔭 Currently building: A MERN stack social app for local community events
-- 🌱 Learning: **Next.js, PostgreSQL, System Design fundamentals**
-- 🎯 Goal: Land my first **Software Engineer role** by Q3 2024
-- 🤝 Open to: **Internships, entry-level SWE roles, and pair programming sessions**
-- ⚡ Fun fact: I switched from pre-med to CS after building my first Python script — no regrets!
+I enjoy learning through **practical projects, simulations, engineering
+software, and hands-on experimentation**.
+
+My interests cover different areas of electrical engineering, from electrical
+systems and electronics to control, energy, and engineering technologies.
+
+- 🎓 **Electrical Engineering Student** — Faculté des Sciences et Techniques de Tanger
+- 📍 Based in **Tanger, Morocco**
+- ⚡ Interested in **Electrical Engineering, Electrical Systems & Energy**
+- 🔧 Exploring **Engineering Software, CAD/CAM & Simulation**
+- 🧠 Continuously developing my technical and practical skills
+- 🚀 Using GitHub to document my projects, experiments, and learning journey
+  
+---
+
+## ⚡ Areas of Interest
+
+- ⚡ Electrical Engineering
+- 🔌 Electrical Systems
+- 🔋 Energy & Power Systems
+- 📐 Electrical Circuit Analysis
+- 🔧 Electronics
+- 🎛️ Control Systems
+- ⚙️ Electrical Machines
+- 🏭 Industrial Technologies
+- 💻 Engineering Software & Simulation
+- 📐 CAD / CAM
+- 🧪 Practical Engineering & Experimentation
 
 ---
 
-## 🎓 Education Timeline
 
-### 🏫 B.Sc. Computer Science · State University
-**September 2020 – May 2024** | GPA: 3.8/4.0
 
-- 📚 Relevant Coursework: Data Structures, Algorithms, Database Systems, OS, Networks, AI/ML, Software Engineering
-- 🏆 Awards: Dean's List (6 semesters), Best Capstone Project (2024 cohort)
-- 🧑‍🤝‍🧑 Clubs: Women in CS, Hackathon Club Organiser, ACM Student Chapter
+## 🎓 Education
 
-### 💻 Full-Stack Web Development Bootcamp · [Bootcamp Name]
-**January 2024 – April 2024** | Certificate of Completion
+### 🏫 Faculté des Sciences et Techniques de Tanger
 
-- 🛠️ Built 8 full-stack projects over 12 weeks
-- 🌐 Stack: MERN (MongoDB, Express, React, Node.js)
-- 👥 Pair-programmed with 20+ developers from 12 countries
+**Electrical Engineering** licence
+
+- 📚 Electrical Systems & Circuit Analysis
+- ⚡ Electrical Engineering Fundamentals
+- 🔌 Electronics
+- 🎛️ Control Systems
+- 🔋 Energy & Electrical Power
+- 💻 Engineering Software & Simulation
+- 🛠️ Practical Engineering Projects
+
+
+### 🏫 Faculté des Sciences et Techniques de Tanger
+
+**Electrical Engineering** deuste
+
+- 📚 Electrical Systems & Circuit Analysis
+- ⚡ Electrical Engineering Fundamentals
+- 🔌 Electronics
+- 🎛️ Control Systems
+- 🔋 Energy & Electrical Power
+- 💻 Engineering Software & Simulation
+- 🛠️ Practical Engineering Projects
+
+
+
+### 🏫 alla fasi 
+
+**Electrical Engineering** bac
+
+- 📚 Electrical Systems & Circuit Analysis
+- ⚡ Electrical Engineering Fundamentals
+- 🔌 Electronics
+- 🎛️ Control Systems
+- 🔋 Energy & Electrical Power
+- 💻 Engineering Software & Simulation
+- 🛠️ Practical Engineering Projects
+
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### ⚡ Electrical Engineering
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- Electrical Systems
+- Circuit Analysis
+- Electrical Machines
+- Electronics
+- Control Systems
+- Energy Systems
+- Industrial Electrical Technologies
+
+### 💻 Engineering Software & Tools
+
+![Siemens TIA Portal](https://img.shields.io/badge/Siemens%20TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+
+### 🏭 Control & Industrial Technologies
+
+- PLC
+- HMI
+- Siemens TIA Portal
+- PLCSIM
+- Factory I/O
+- Control & Simulation
+
+### 📐 CAD / CAM
+
+- CAD
+- CAM
+- Autodesk Fusion
+- FeatureCAM
+- Engineering Design
+
+### 💻 Programming & Technical Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -78,42 +156,49 @@ I believe great software should be **inclusive by design** and **delightful to u
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Projects & Learning
 
-### 🌐 CommunityConnect — Social Event Platform
-> *Full-Stack Capstone Project (2024)*
+I use GitHub to document my **academic projects, practical experiments,
+simulations, and technical learning journey**.
 
-A MERN stack web app that helps local communities discover and organise neighbourhood events.
+### ⚙️ Electrical Engineering Projects
 
-**Features:** User auth with JWT, event CRUD, real-time chat with Socket.io, interactive maps, mobile-responsive design.
+Projects related to electrical systems, control, simulation, electronics,
+and engineering applications.
 
-**Stack:** React · Node.js · Express · MongoDB · Socket.io · Mapbox API · Tailwind CSS
-
-[📱 Live Demo](https://communityconnect.vercel.app) | [📂 Source Code](https://github.com/your-username/communityconnect) | ⭐ 34 stars
-
----
-
-### 🛒 ShopSmart — E-Commerce Platform
-> *Bootcamp Final Project (2024)*
-
-A fully functional e-commerce platform with payment integration.
-
-**Stack:** React · Node.js · PostgreSQL · Stripe API · AWS S3
-
-[📱 Live Demo](https://shopsmart.vercel.app) | [📂 Source Code](https://github.com/your-username/shopsmart)
+> 📌 Projects will be added as I develop and document them.
 
 ---
 
-### 🤖 StudyBuddy — AI-Powered Flashcard App
-> *Personal Project (2023)*
+### 🎛️ Control & PLC Projects
 
-A flashcard app using spaced repetition and OpenAI to generate contextual hints.
+Exploring PLC programming, HMI development, simulation, and industrial
+control concepts using engineering software.
 
-**Stack:** Python · Flask · OpenAI API · SQLite · Vanilla JS
-
-[📂 Source Code](https://github.com/your-username/studybuddy)
+> 📌 More projects and experiments coming soon.
 
 ---
+
+### 📐 Engineering Design & Simulation
+
+Exploring CAD/CAM and engineering simulation tools to develop practical
+technical skills and better understand engineering systems.
+
+---
+
+## 📚 Currently Learning
+
+- ⚡ Electrical Engineering & System Design
+- 🔌 Electrical & Electronic Systems
+- 🎛️ Control Systems
+- 🔋 Energy & Power Systems
+- 💻 Engineering Simulation
+- 📐 CAD / CAM
+- 🏭 Industrial Engineering Technologies
+- 🐍 Programming for Engineering Applications
+
+---
+
 
 ## 📊 My GitHub Journey
 
@@ -126,9 +211,11 @@ A flashcard app using spaced repetition and OpenAI to generate contextual hints.
 
 ## 🤝 Let's Connect!
 
-I'm actively looking for my first SWE role. If you're hiring, collaborating on open source, or just want to chat about tech and learning — reach out!
+I'm always interested in learning, building practical engineering projects,
+and connecting with people interested in technology and engineering.
 
-> 💼 **Open to:** Entry-level SWE · Front-End Engineer · Full-Stack roles · Remote-friendly
+If you're interested in **Electrical Engineering, engineering technologies,
+projects, or technical learning**, feel free to connect with me.
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" alt="Template preview" /></a>
