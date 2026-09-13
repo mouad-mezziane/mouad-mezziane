@@ -199,6 +199,13 @@ Designed and developed an intelligent electronic testing device capable of autom
 ![English](https://img.shields.io/badge/English-Professional%20Working%20Proficiency-1E90FF?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-Basic%20Proficiency-000000?style=for-the-badge)
 
+### 🌍 Languages
+
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f2-1f1e6.svg" width="18"> **Arabic** — Native proficiency
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1eb-1f1f7.svg" width="18"> **French** — Professional working proficiency
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ec-1f1e7.svg" width="18"> **English** — Professional working proficiency
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e9-1f1ea.svg" width="18"> **German** — Basic proficiency
+
 
 ---
 
