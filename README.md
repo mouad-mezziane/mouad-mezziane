@@ -183,20 +183,14 @@ Designed and developed an intelligent electronic testing device capable of autom
 
 ---
 
-## 📚 Currently Learning
+### 🌍 Languages
 
-- ⚡ Electrical Engineering & System Design
-- 🔌 Electrical & Electronic Systems
-- 🎛️ Control Systems
-- 🔋 Energy & Power Systems
-- 💻 Engineering Simulation
-- 📐 CAD / CAM
-- 🏭 Industrial Engineering Technologies
-- 🐍 Programming for Engineering Applications
+- 🇲🇦 **Arabic** — Native proficiency
+- 🇫🇷 **French** — Professional working proficiency
+- 🇬🇧 **English** — Professional working proficiency
+- 🇩🇪 **German** — Basic proficiency
 
 ---
-
-
 
 ## 🤝 Let's Connect!
 
