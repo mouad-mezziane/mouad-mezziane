@@ -37,8 +37,6 @@ systems and electronics to control, energy, and engineering technologies.
 - 🔧 Exploring **Engineering Software, CAD/CAM & Simulation**
 - 🧠 Continuously developing my technical and practical skills
 - 🚀 Using GitHub to document my projects, experiments, and learning journey
-  
--
 
 
 ## 🎓 Education
@@ -149,7 +147,7 @@ These foundations continue to support my academic and technical development in *
 
 🔌 TESTEUR DES COMPOSANTS ÉLECTRONIQUES
 
- '  **mars 2026 – avril 2026**
+**mars 2026 – avril 2026**
   
 Conception et réalisation d’un dispositif intelligent permettant d’identifier et de mesurer automatiquement plusieurs types de composants électroniques.
 
