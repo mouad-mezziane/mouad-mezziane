@@ -195,8 +195,9 @@ technical skills and better understand engineering systems.
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F43F5E&icon_color=F43F5E&count_private=true" loading="lazy" alt="Template preview" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F43F5E" loading="lazy" alt="Template preview" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouad-mezziane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F43F5E&icon_color=F43F5E&count_private=true" alt="Mouad's GitHub Stats" loading="lazy" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-mezziane&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F43F5E" alt="Most Used Languages" loading="lazy" />
 </p>
 
 ---
