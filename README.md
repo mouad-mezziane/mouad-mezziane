@@ -43,54 +43,58 @@ systems and electronics to control, energy, and engineering technologies.
 
 ## 🎓 Education
 
-
-
-'
 ### 🏫 Faculté des Sciences et Techniques de Tanger
 
-LICENCE : Génie Électrique & Système Industriel [ GESI ] 
-sept. 2025 – sept. 2026
+**Bachelor's Degree in Electrical Engineering & Industrial Systems (GESI)**  
+**September 2025 – September 2026** | **Bac+3**
 
-Niveau : Bachelor's degree { BAC + 3 }
+I hold a Bachelor's degree in **Electrical Engineering & Industrial Systems**.
 
+Throughout my Bachelor's studies, I completed several practical engineering projects that enabled me to develop strong technical skills in electrical engineering, signal processing, electronics, power electronics, embedded systems, and industrial automation.
 
-Je suis titulaire d’une Licence en Génie Électrique et Systèmes Industriels.
+Selected academic projects include:
 
-Au cours de ma Licence, j’ai réalisé plusieurs projets pratiques qui m’ont permis de développer de solides compétences techniques. 
+- 📊 **Fourier Transform & Signal Processing** — Analysis and signal processing using **MATLAB**.
+- 🚦 **Traffic Light Control System** — Design and simulation of a traffic-light control system using **Proteus**.
+- ⚡ **Power Electronics Converters** — Study and simulation of **rectifiers, inverters, and AC voltage controllers** using **PSIM**.
+- 🔌 **Arduino-Based Electronics Projects** — Development and testing of several electronic systems using **Arduino IDE**, including an electronic component tester.
+- 🏭 **Final-Year Project (PFE)** — Completed as part of a two-person team at **Aluminium du Maroc**, contributing to the migration of a **Siemens S7-300 PLC to a Siemens S7-1500 PLC** and the development of an **HMI** using **TIA Portal**. This project strengthened my practical skills in industrial automation, PLC programming, and Siemens control systems.
 
-Ces projets comprennent des travaux sur la Transformée de Fourier et le traitement de signaux sous MATLAB, le développement d’un système de simulation d’un carrefour à feux tricolores sous Proteus, ainsi que l’étude et la simulation des convertisseurs d’électronique de puissance (redresseurs, onduleurs et gradateurs) sous PSIM.
-J’ai également développé plusieurs projets sous Arduino IDE, notamment un testeur de composants électroniques ... 
+---
 
-Dans le cadre de mon Projet de Fin d’Études (PFE), réalisé en binôme chez Aluminium du Maroc, j’ai contribué à la migration d’un automate Siemens S7-300 vers un Siemens S7-1500 et au développement d’une interface HMI sous TIA Portal, renforçant mes compétences en automatisme industriel et en programmation des automates Siemens.
-
-
-
-'
 ### 🏫 Faculté des Sciences et Techniques de Tanger
 
-DEUST : Génie Électrique & Génie Mécanique [ GE-GM ]
-sept. 2023 – sept. 2025
+**DEUST in Electrical Engineering & Mechanical Engineering (GE-GM)**  
+**September 2023 – September 2025** | **Bac+2**
 
-Niveau : Deust degree  { BAC + 2 }
+I hold a **DEUST in Electrical Engineering & Mechanical Engineering**, providing me with a solid multidisciplinary foundation in both electrical and mechanical engineering.
 
+During my studies, I worked on practical engineering projects involving:
 
-Je suis Titulaire d’un Diplôme en Génie Électrique & Génie Mécanique, ce qui m’a Permis d’acquérir une Base de connaissances Solide dans ces deux Spécialités.
+- ⚡ Electrical circuit design and analysis
+- ⚙️ Fundamentals of mechanical systems
+- 📐 Technical analysis and engineering design
+- 🧩 Problem-solving and multidisciplinary engineering applications
 
-Au cours de mon parcours académique, j’ai participé à plusieurs projets pratiques, tels que la conception de circuits électriques et l’étude des performances des systèmes mécaniques, ce qui m’a permis de développer mes compétences en analyse technique et en résolution innovante de problèmes.
+This multidisciplinary background allowed me to develop a structured approach to **technical analysis, engineering problem-solving, and system understanding**.
 
+---
 
+### 🏫 Lycée Qualifiant Allal El Fassi de Tanger
 
-'
-### 🏫 Lycée Qualifiant Allal el Fassi de Tanger
+**Baccalaureate in Physical Sciences**  
+**September 2019 – July 2022** | **Baccalaureate (Bac)**
 
-Bacalauréat : Les Sciences Physiques
-sept. 2019 – juil. 2022
+My secondary education in **Physical Sciences** provided me with a strong foundation in **Physics, Chemistry, and Mathematics**.
 
-Niveau : Baccalaureate { BAC }
+This training helped me develop:
 
-Durant ma Formation au Lycée, j’ai Acquis une Solide Base en Physique, Chimie et Mathématiques, ce qui m’a permis de développer une pensée Analytique Structurée, un esprit Critique, ainsi qu’une rigueur Scientifique.
+- 🔬 Scientific reasoning and analytical thinking
+- 📐 Mathematical and quantitative skills
+- 🧠 Structured problem-solving
+- 🎯 Scientific rigor and critical thinking
 
-Ces Compétences Constituent Aujourd’hui un Fondement Essentiel dans mon Parcours en Ingénierie et Renforcent ma Capacité à Résoudre des Problèmes Complexes de Manière Logique et Méthodique.
+These foundations continue to support my academic and technical development in **Electrical Engineering and related engineering disciplines**.
 
 ---
 
